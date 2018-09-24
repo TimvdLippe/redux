@@ -31,6 +31,7 @@
     "dist",
     "lib",
     "es",
+    "es-browser",
     "src",
     "index.d.ts"
   ],
